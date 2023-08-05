@@ -1,7 +1,7 @@
 import json
 import pickle
 
-from flask import Flask,request,app,jsonify,url_for,render_template
+from flask import Flask,request,jsonify,url_for,render_template,app
 import numpy as np
 import pandas as pd
 

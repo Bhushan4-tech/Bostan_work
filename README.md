@@ -4,7 +4,7 @@
 ### Software and tools Requirement
 
 
-1. [Github Account] (https://github.com)
+1. [Github Account]
 2. [HerokuAccount] 
 3. [VScode]
-4. 
+4. [GitCLI] 
